@@ -1,2 +1,2 @@
-# vue3SycnVmodel
-Created with CodeSandbox
+子组件更新父组件的数据，按钮在子组件
+vue3
